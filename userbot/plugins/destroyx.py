@@ -1,6 +1,6 @@
 # this plugin made by Tornado Userbot
 
-"""Plugin for HellBot Repo
+"""Plugin for DESTROYX Repo
 
 \nCode by @THETORNADOTEAM
 
