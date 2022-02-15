@@ -1,11 +1,7 @@
-<h3 align="center">𝚃𝙷𝙴 𝙲𝙻𝙾𝙽𝙴 𝙾𝙵</h3>
-<h2 align="center"> <a href="https://github.com/THETORNADOTEAM/TORNADO-USERBOT">🔥 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃 🔥</a></h2>
+<h1 align="center">⚡𝚃𝙾𝚁𝙽𝙰𝙳𝙾 𝚄𝚂𝙴𝚁𝙱𝙾𝚃⚡</h1>
 
 
-<h1 align="center">⚡ 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</h1>
-
-
-[![TORNADO LOGO](https://telegra.ph/file/b61486075c6ef73dd0d12.jpg)](https://t.me/TornadoBot_Support)
+[![TORNADO LOGO](https://telegra.ph/file/cab5090d91c254ba90950.jpg)](https://t.me/TornadoBot_Support)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
