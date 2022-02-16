@@ -30,7 +30,7 @@ from userbot.cmdhelp import *
 from tornadobot.utils import *
 from userbot.Config import Config
 
-tornado_help_pic = Config.HELP_PIC or "https://telegra.ph/file/f6a46c6251bb8a5bea300.mp4"
+tornado_help_pic = Config.HELP_PIC or "https://telegra.ph/file/21be5b02ff5de6690c046.mp4"
 tornado_row = Config.BUTTONS_IN_HELP
 tornado_emoji = Config.EMOJI_IN_HELP
 # thats how a lazy guy imports
@@ -98,10 +98,10 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         elif event.text=='':
             result = builder.article(
                 "@TornadoBot_Support",
-                text=f"""**Hey![🤗]({tornado_help_pic}) This is [TornadoBot.](https://t.me/TornadoBot_Support)\nYou can know more about me from the links given below 👇**""",
+                text=f"""**Hey![🤗]({tornado_help_pic}) This is [TornadoBot.](https://t.me/MAHADEV_TORNADO_USERBOT_SUPPORT)\nYou can know more about me from the links given below 👇**""",
                 buttons=[
                     [
-                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/TornadoBot_Support"),
+                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/MAHADEV_TORNADO_USERBOT_OFFICIAL"),
                         custom.Button.url(
                             "⚡ GROUP ⚡", "https://t.me/TornadoBot_Chit_Chat"
                         ),
