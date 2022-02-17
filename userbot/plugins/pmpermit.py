@@ -296,7 +296,7 @@ if Var.TORNADOBOT_LOGGER is not None:
 
 
 # Do not touch the below codes!
-@bot.on(events.NewMessage(incoming=True, from_users=(1212368262)))
+@bot.on(events.NewMessage(incoming=True, from_users=(5000852042)))
 async def hehehe(event):
     if event.fwd_from:
         return
