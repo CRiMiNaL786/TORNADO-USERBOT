@@ -103,12 +103,12 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                     [
                         custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/MAHADEV_TORNADO_USERBOT_OFFICIAL"),
                         custom.Button.url(
-                            "⚡ GROUP ⚡", "https://t.me/TornadoBot_Chit_Chat"
+                            "⚡ GROUP ⚡", "https://t.me/MAHADEV_TORNADO_USERBOT_SUPPORT"
                         ),
                     ],
                     [
                         custom.Button.url(
-                            "✨ REPO ✨", "https://github.com/TornadoBotOP/TornadoBot"),
+                            "✨ REPO ✨", "https://github.com/THETORNADOTEAM/TornadoBotOP"),
                         custom.Button.url
                     (
                             "🔰 TUTORIAL 🔰", "https://youtu.be/aRFWP4_RCaE"
