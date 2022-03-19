@@ -24,7 +24,7 @@ else:
 tornado = bot.uid
 
 TORNADO_IMG = Config.ALIVE_PIC or "https://telegra.ph/file/21be5b02ff5de6690c046.mp4"
-pm_caption = "  __**🔥🔥MAHADEV 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄🔥🔥**__\n\n"
+pm_caption = "  __**🔥🔥TORNADO 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄🔥🔥**__\n\n"
 
 pm_caption += f"**━━━━━━━━━━━━━━━━━━━━**\n\n"
 pm_caption += (
@@ -37,7 +37,7 @@ pm_caption += f"┣•➳➠ `Sudo:` `{sudou}`\n"
 pm_caption += f"┣•➳➠ `Channel:` [ᴊᴏɪɴ](https://t.me/MAHADEV_TORNADO_USERBOT_SUPPORT)\n"
 pm_caption += f"┣•➳➠ `Creator:` [Jaisai](https://t.me/MAHADEV_TORNADO_JAISAI)\n"
 pm_caption += f"┗━━━━━━━━━━━━━━━━━━━\n"
-pm_caption += " [🔥REPO🔥](https://github.com/TornadoBotOP/TornadoBot) 🔹 [📜License📜](https://github.com/TornadoBotOP/TornadoBot/blob/main/LICENSE)"
+pm_caption += " [🔥REPO🔥](https://github.com/THETORNADOTEAM/TornadoBotOP) 🔹 [📜License📜](https://github.com/THETORNADOTEAM/TornadoBotOP/blob/main/LICENSE)"
 
 # @command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
