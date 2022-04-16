@@ -35,7 +35,7 @@ pm_caption += f"┣•➳➠ `Telethon:` `{version.__version__}` \n"
 pm_caption += f"┣•➳➠ `Version:` `{tornadoversion}`\n"
 pm_caption += f"┣•➳➠ `Sudo:` `{sudou}`\n"
 pm_caption += f"┣•➳➠ `Channel:` [ᴊᴏɪɴ](https://t.me/MAHADEV_TORNADO_USERBOT_SUPPORT)\n"
-pm_caption += f"┣•➳➠ `Creator:` [Jaisai](https://t.me/MAHADEV_TORNADO_JAISAI)\n"
+pm_caption += f"┣•➳➠ `Creator:` [Jaisai](https://t.me/TORNADO_YOUTUBER_JAISAI)\n"
 pm_caption += f"┗━━━━━━━━━━━━━━━━━━━\n"
 pm_caption += " [🔥REPO🔥](https://github.com/THETORNADOTEAM/TornadoBotOP) 🔹 [📜License📜](https://github.com/THETORNADOTEAM/TornadoBotOP/blob/main/LICENSE)"
 
